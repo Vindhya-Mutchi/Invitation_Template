@@ -1,0 +1,63 @@
+.mainbody1{
+    color: rgb(248, 15, 224);
+    text-align: center;
+    
+}
+.heading{
+    color: chartreuse;
+   font-size: 120px;
+    font-style: oblique;
+    min-height: auto;
+    margin-bottom: auto;
+    margin-top: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.welimage{
+    height: 200px;
+}
+.ramesh{
+    height: 100px;
+}
+.heading1{
+    color: lightcoral;
+    font-size: 50px;
+    font-style: inherit;
+    margin-bottom: 50px;
+    height: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.para1{
+    color: rgb(8, 72, 59);
+    font-size: 40px;
+    font-style: normal;
+    min-height: 0%;
+}
+.heading2{
+    color: darkblue;
+    font-size: 60px;
+    font-style: initial;
+    border: 2px solid black;
+    padding: 30px;
+   background-color: rgb(175, 235, 236);
+   margin-top: 5px;
+    display: inline-block;
+}
+.para2{
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: lighter;
+    font-style:normal;
+
+
+}
+.click-here1:hover{
+    color: crimson;
+    text-decoration: underline;
+    
+}
